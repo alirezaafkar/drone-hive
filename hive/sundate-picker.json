@@ -1,0 +1,18 @@
+{
+  "name": "SunDate Picker",
+  "description": "Date picker for Iranian calendar",
+  "homepage": "https://github.com/alirezaafkar/SunDatePicker",
+  "dependencies": [
+    {
+      "dependency": "com.alirezaafkar:sundatepicker",
+      "compileType": "implementation"
+    }
+  ],
+  "repository": {
+    "server": "jcenter"
+  },
+  "author": {
+    "name": "Alireza Afkar",
+    "webpage": "https://alirezaafkar.github.io"
+  }
+}
